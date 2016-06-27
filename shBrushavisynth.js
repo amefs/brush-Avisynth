@@ -98,7 +98,7 @@
     'Dither_add16 Dither_bilateral16 Dither_box_filter16 Dither_limit_dif16 ' +
     'Dither_max_dif16 Dither_median16 Dither_merge16 Dither_out ' +
     'Dither_removegrain16 Dither_repair16 Dither_resize16 Dither_sub16 ' +
-    'ditherpost SmoothGrad EEDI2 imp_EEDI2 eedi3 eedi3_rpow2 ' +
+    'ditherpost ditherBuildMask SmoothGrad EEDI2 imp_EEDI2 eedi3 eedi3_rpow2 ' +
     'FFAudioSource FFGetLogLevel FFGetVersion FFIndex FFSetLogLevel ' +
     'FFVideoSource SWScale FFT3DFilter FFT3DGPU FillMargins ' +
     'f3kdb f3kdb_dither flash3kyuu_deband FluxSmoothST FluxSmoothT ' +
